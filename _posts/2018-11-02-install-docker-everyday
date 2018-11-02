@@ -10,7 +10,7 @@ date: "2018-11-02 10:05:03"
 果断写一个脚本吧。 [gist](https://gist.github.com/wusisu/38f800cacf58a84ca6d59e6347a8f6ae)
 
 ```
-curl -fsSL  https://gist.github.com/wusisu/38f800cacf58a84ca6d59e6347a8f6ae/raw/7c15a5d5795e504fa63de2b684b938d0a6e9b3c8/install-docker-china.sh | sh
+curl -fsSL https://gist.githubusercontent.com/wusisu/38f800cacf58a84ca6d59e6347a8f6ae/raw/23341fd62cddbb2748960847f8b1d9dd90d10f16/install-docker-china.sh | sh
 ```
 
 我觉得这样就可以了。
