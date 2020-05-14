@@ -20,6 +20,12 @@ module.exports = {
         'ga': 'UA-72139013-3' // UA-00000000-0
       },
     ],
+    [
+      'sitemap',
+      {
+        hostname: 'https://blog.wusisu.com',
+      },
+    ],
     '@vuepress/medium-zoom', 
     'flowchart',
   ],
