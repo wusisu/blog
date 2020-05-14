@@ -13,5 +13,14 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
-  plugins: ['@vuepress/medium-zoom', 'flowchart'] 
+  plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-72139013-3' // UA-00000000-0
+      },
+    ],
+    '@vuepress/medium-zoom', 
+    'flowchart',
+  ],
 }  
