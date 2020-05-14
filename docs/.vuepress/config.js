@@ -26,6 +26,12 @@ module.exports = {
         hostname: 'https://blog.wusisu.com',
       },
     ],
+    [
+      '@vuepress-reco/vuepress-plugin-rss',
+      {
+        site_url: 'https://blog.wusisu.com',
+      },
+    ],
     '@vuepress/medium-zoom', 
     'flowchart',
   ],
