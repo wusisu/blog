@@ -16,6 +16,10 @@ module.exports = Object.assign({}, themeReco, {
   startYear: 2014,
   author: 'wusisu',
   authorAvatar: '/avatar.jpeg',
-  
+
+  valineConfig: {
+    appId: 'TD2HlBVsYyw5J62Kg9kQom88-gzGzoHsz',// your appId
+    appKey: '7pXpfTgsoOHenM3kkw5G22zl', // your appKey
+  }
 
 })
