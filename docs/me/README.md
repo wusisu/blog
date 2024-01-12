@@ -1,5 +1,0 @@
----
-isComment: false
-sidebar: false
----
-
