@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://blog.wusisu.live',
+  url: 'https://wusisu.live',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -39,13 +39,13 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/wusisu/blog/tree/main/',
-        },
+        // docs: {
+        //   sidebarPath: './sidebars.js',
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     'https://github.com/wusisu/blog/tree/main/',
+        // },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -57,7 +57,7 @@ const config = {
           customCss: './src/css/custom.css',
         },
         gtag: {
-          trackingID: 'G-QSQ9MFGK0B',
+          trackingID: 'G-SVR58PN8W6',
         },
         sitemap: {
           changefreq: 'weekly',
@@ -81,12 +81,12 @@ const config = {
           src: 'img/favicon.ico',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Docs',
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Docs',
+          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             label: 'Blog',
