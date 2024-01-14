@@ -4,7 +4,7 @@ title: 代码仓储（git vs svn)
 date: 2016-05-27 15:46:38
 categories: 
   - development
-tags: [git,svn,协作模式]
+tags: [git,svn,collaboration]
 ---
 
 个人感觉git比起svn有着太多的优势了。
