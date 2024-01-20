@@ -101,9 +101,9 @@ const config = {
             },{
               to: '/blog/tags',
               label: 'tags',
-            },{
-              to: '/blog',
-              label: 'blog',
+            // },{
+            //   to: '/blog',
+            //   label: 'blog',
             }],
           },
           {
